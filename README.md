@@ -11,3 +11,5 @@ The following video displays the dynamics of the inverted cart pendulum system w
     </video>
 </div>
 
+https://github.com/Zach-K408/cart-pole_rl/assets/99453467/40860ed8-a129-414c-888b-4d34fcf76a31
+
