@@ -3,7 +3,7 @@ The inverted cart pendulum system serves as a classic benchmark problem for stud
 The objective in this repository, is to determine the optimal action selection policy using a Q-learning algorithm to maintain upright balance of the pole by forcing the cart to the left or right. The environment developed discretizes the continuous state space, drawing inspiration from Gym’s cart-pole environment. Acheiving the optimal action selection policy is obtain through careful tuning of the Q-learning parameters.
 
 <div align="center">
-  <video src="https://github.com/Zach-K408/cart-pole_rl/blob/main/clip.mp4" width=400/>
+  <video src="https://github.com/Zach-K408/cart-pole_rl/blob/main/clip.mp4" width=400/></video>
 </div>
 
 The short clip above displays the resulting dynamics of the inverted cart pendulum when controlled by the action selection policy obtained from the Q-learning model.
