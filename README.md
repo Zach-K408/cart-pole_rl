@@ -7,9 +7,7 @@ The following video displays the dynamics of the inverted cart pendulum system w
 
 <div name="simulation" align="center">
     <video controls="controls">
-        <source src="cartpole.mp4" type="video/mp4"/>
+        <source src="https://github.com/Zach-K408/cart-pole_rl/assets/99453467/40860ed8-a129-414c-888b-4d34fcf76a31" type="video/mp4"/>
     </video>
 </div>
-
-https://github.com/Zach-K408/cart-pole_rl/assets/99453467/40860ed8-a129-414c-888b-4d34fcf76a31
 
