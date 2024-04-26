@@ -4,7 +4,7 @@ The objective in this repository, is to determine the optimal action selection p
 
 <div align="center">
   <video src="https://github.com/Zach-K408/cart-pole_rl/blob/main/clip.mp4" width=400/>
-<div/>
+</div>
 
 The short clip above displays the resulting dynamics of the inverted cart pendulum when controlled by the action selection policy obtained from the Q-learning model.
 
